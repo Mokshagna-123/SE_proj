@@ -1,0 +1,6 @@
+requirement_id,stakeholder,category,requirement,priority
+REQ-001,Product Owner,Functional,"Applicants shall save and resume a loan application before submission.",Must
+REQ-002,Compliance,Disclosure,"The system shall display approved interest, fees and repayment terms before offer acceptance.",Must
+REQ-003,Information Security,Security,"Staff access to applicant records shall be authenticated, role-based and audited.",Must
+REQ-004,Privacy Officer,Privacy,"Personal-data purpose, sharing, retention and deletion rules shall be approved and traceable.",Must
+REQ-005,Operations,Integration,"The origination service shall integrate with the bank core system and approved KYC and credit-bureau APIs.",Should
